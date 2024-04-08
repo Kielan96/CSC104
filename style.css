@@ -1,0 +1,25 @@
+
+/* this is to cahnge font and size*/
+
+h1{
+	font-family: "Pinyon Script", cursive;
+	font-weight: 400;
+	font-style: normal;
+	font-size: xxx-large;
+}
+/* this is to add a backgorund img to the website*/
+body{
+	background-image: url(scroll.jpeg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+p{
+	font-family: "Pinyon Script", cursive;
+	font-weight: 400;
+	font-style: normal;
+	font-size: x-large;
+	
+}
